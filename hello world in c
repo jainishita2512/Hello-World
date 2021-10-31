@@ -1,0 +1,8 @@
+#include<stdio.h>         //header file for input and output
+#include<conio.h>         //header file for console input and output
+void main()
+{
+clrscr();                 //function for clearing the screen
+printf("Hello World");    //printing statement
+getch();                  //function for getting the output on screen so that user can see the output
+}
